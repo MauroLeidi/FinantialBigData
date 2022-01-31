@@ -10,5 +10,6 @@ In this project we analyze different techniques for creating financial portfolio
 ## DATA files
 - [us_equities_logreturns.parquet](us_equities_logreturns.parquet) : Data file containing US-equities daily log returns.
 - [logreg.csv]() : The files containing the results of our simulations.
+- [INDUSTRIES_AND_CO.xlsx](INDUSTRIES_AND_CO.xlsx) : Data file containing the industries associated to the stocks.
 ## Scripts and project wide utilities
 - [helpers.py](helpers.py) : Project wide constants, file paths, helper and utility functions.
