@@ -9,7 +9,7 @@ In this project we analyze different techniques for creating financial portfolio
 - [Clustering_exploration.ipynb]() : Notebook containing analysis of the two Clustering techniques, exploration of the clusters, study of similarities and differences.
 ## DATA files
 - [us_equities_logreturns.parquet](us_equities_logreturns.parquet) : Data file containing US-equities daily log returns.
-- [logreg.csv]() : The files containing the results of our simulations.
+- The files containing the results of our simulations are exceeding the 100 MB git limit. You can find them here https://drive.google.com/drive/folders/15zJEOOPcjwBF6n17TJrzpc-u7lLA5Klv?usp=sharing
 - [INDUSTRIES_AND_CO.xlsx](INDUSTRIES_AND_CO.xlsx) : Data file containing the industries associated to the stocks.
 ## Scripts and project wide utilities
 - [helpers.py](helpers.py) : Project wide constants, file paths, helper and utility functions.
